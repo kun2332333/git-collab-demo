@@ -1,1 +1,2 @@
 print('hello from A')
+print('hello from B')
